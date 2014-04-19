@@ -1,11 +1,1 @@
-- resource:
-  override:
-    priority:
-- resource:
-  override:
-    name:
-    description:
-- resource:
-  override:
-    description:
-- resource:
+- resource: rocon_service_turtlesim/turtlesim
