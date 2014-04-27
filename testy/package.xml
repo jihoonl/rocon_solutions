@@ -1,13 +1,16 @@
 <package>
-  <name></name>
-  <version></version>
-  <description></description>
-  <maintainer email=""></maintainer>
+  <name>testy</name>
+  <version>0.5.6</version>
+  <description>
+    hola
+  </description>
+  <maintainer email="tt@tt.com">tt</maintainer>
   <license>BSD</license>
-  <author></author>
+  <author>TTL</author>
 
   <buildtool_depend>catkin</buildtool_depend>
-  <run_depend></run_depend>
- 
-</package>
 
+  <run_depend>concert_master</run_depend>
+  <run_depend>rocon_service_turtlesim</run_depend>
+  <run_depend>rospy_tutorials</run_depend>
+</package>
