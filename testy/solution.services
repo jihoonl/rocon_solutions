@@ -1,11 +1,4 @@
-- resource:
-  override:
-    priority:
-- resource:
-  override:
-    name:
-    description:
-- resource:
-  override:
-    description:
-- resource:
+- resource: rocon_service_admin/admin
+- resource: chatter_concert/admin
+  override: 
+    name: 23
